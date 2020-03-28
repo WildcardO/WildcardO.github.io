@@ -1,5 +1,7 @@
 # openSUSE Tumbleweed安装后配置
 
+> 注：本文首发于本人知乎账号，故而图片水印带有“知乎”字样，[阅读原文](https://zhuanlan.zhihu.com/p/107763542)
+
 ![](imgs/opensuse1.jpg)
 
 ## 1.软件源配置
