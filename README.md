@@ -10,6 +10,6 @@
 ### [C/C++](./CandCpp/List.md)
 ### [Java](./Java/List.md)
 ### [Linux](./Linux/List.md)
-### [Python](./Python/List.md)
+### [Python](./Python/List.html)
 ### [搬运](./Banyun/List.md)
 <center>2020 © Wildcardo</center>
