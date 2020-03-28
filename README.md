@@ -1,4 +1,3 @@
-@@ -1 +1,37 @@
 # WildcardO.github.io
 ## Welcome to GitHub Pages
 
