@@ -1,4 +1,4 @@
-# Manjaro安装后的配置
+# Manjaro Gnome安装后的配置
 
 > 注：本文首发于本人知乎账号，故而水印上带有“知乎”字样，[阅读原文](https://zhuanlan.zhihu.com/p/64799118)
 

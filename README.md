@@ -5,8 +5,8 @@
 Article Name | Update Time
 ------------ | ------------
 [【搬运】银河帝国梦](./Banyun/银河帝国梦.md) | 2020/3/28
-[openSUSE安装后的配置](./Linux/opensuse1.md) | 2020/3/28
-[Manjaro安装后的配置](./Linux/manjaro1.md) | 2020/3/28
+[openSUSE Tumbleweed安装后配置](./Linux/opensuse1.md) | 2020/3/28
+[Manjaro Gnome安装后的配置](./Linux/manjaro1.md) | 2020/3/28
 
 ## Blog List
 ### [Algorithm](./Algorithm/List.md)
