@@ -1,1 +1,3 @@
-# WildcardO index markdown
+---
+layout: index
+---
