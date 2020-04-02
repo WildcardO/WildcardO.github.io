@@ -3,57 +3,33 @@ title: about
 layout: page
 ---
 
-此博客开通于2018/1/24，写些东西，记录生活，如此而已。
+	黑夜从大地上升起
+	遮住了光明的天空
+	丰收后荒凉的大地
+	黑夜从你的内部上升
 
-我很喜欢Bob Dylan的一首歌，叫《forever young》。
+	你从远方来，我到远方去
+	遥远的路程经过这里
+	天空一无所有
+	为何给我安慰
 
-	May God bless and keep you always
-	May your wishes all come true
-	May you always do for others
-	And let others do for you
-	May you build a ladder to the stars
-	And climb on every rung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May you grow up to be righteous
-	May you grow up to be true
-	May you always know the truth
-	And see the lights surrounding you
-	May you always be courageous
-	Stand upright and be strong
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May your hands always be busy
-	May your feet always be swift
-	May you have a strong foundation
-	When the winds of changes shift
-	May your heart always be joyful
-	And may your song always be sung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
+	丰收之后荒凉的大地
+	人们取走了一年的收成
+	取走了粮食骑走了马
+	留在地里的人，埋得很深
 
-我很喜欢《Rick And Morty》。
+	草叉闪闪发亮，稻草堆在火上
+	稻谷堆在黑暗的谷仓
+	谷仓中太黑暗，太寂静，太丰收
+	也太荒凉，我在丰收中看到了阎王的眼睛
 
-我很喜欢茨威格和毛姆的书。
+	黑雨滴一样的鸟群
+	从黄昏飞入黑夜
+	黑夜一无所有
+	为何给我安慰
 
-我很喜欢玩游戏并且经常浸入其中。
-
-我认为人生毫无意义，以此对抗生活。
-
-我爱打篮球，Tim Duncun是我的偶像。
-
-我现在的理想是做出一个游戏AI(NPC)，它会与某些人产生感情并伴其一生。
-
-我认为人类的仪式感毫无用处但我经常会自己制造仪式感。
-
-我认为The One也许是不存在的，我们永远也找不到自己的The One。
-
-我永远喜欢守望先锋，这个世界需要更多英雄。
-
-短发女生是宇宙最可爱的生物。
-
-
+	走在路上
+	放声歌唱
+	大风刮过山岗
+	上面是无边的天空
 
